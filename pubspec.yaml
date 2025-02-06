@@ -1,5 +1,5 @@
-name: repo_annotation
-description: A new Flutter project.
+name: better_repo_annotation
+description: A new Flutter package. Works for iOS, Android, Linux, Web, MacOS and Windows apps. Describe initial release. Repository class code generation.
 version: 0.0.3
 
 environment:
